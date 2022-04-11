@@ -1,5 +1,5 @@
 # Phishing Script [Html-Css-Php]
-Follow us Instagram https://wwww.instagram.com/cang3nizm
+Follow us Instagram https://www.instagram.com/cang3nizm
 
 🖥 İmages:
 
