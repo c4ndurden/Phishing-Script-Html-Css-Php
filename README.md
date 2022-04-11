@@ -1,5 +1,6 @@
 # Phishing Script [Html-Css-Php]
 Follow us Instagram https://www.instagram.com/cang3nizm
+
 The information is saved in the data.txt file
 🖥 İmages:
 
