@@ -1,5 +1,5 @@
 # Phishing Script [Html-Css-Php]
-Follow us Instagram https://www.instagram.com/cang3nizm
+Follow us Instagram https://www.instagram.com/c4nn.g
 
 The information is saved in the data.txt file
 
